@@ -1,0 +1,3 @@
+/home/yzchen/work/ClionProjects/testopengl/CMakeFiles/edit_cache.dir
+/home/yzchen/work/ClionProjects/testopengl/CMakeFiles/rebuild_cache.dir
+/home/yzchen/work/ClionProjects/testopengl/CMakeFiles/testopengl.dir

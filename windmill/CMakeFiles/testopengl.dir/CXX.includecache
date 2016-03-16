@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yzchen/work/ClionProjects/testopengl/main.cpp
+iostream
+-
+GL/glut.h
+-
+openglviewer.h
+/home/yzchen/work/ClionProjects/testopengl/openglviewer.h
+
+/home/yzchen/work/ClionProjects/testopengl/openglviewer.cpp
+GL/glut.h
+-
+math.h
+-
+unistd.h
+-
+openglviewer.h
+/home/yzchen/work/ClionProjects/testopengl/openglviewer.h
+
+/home/yzchen/work/ClionProjects/testopengl/openglviewer.h
+
