@@ -1,2 +1,0 @@
-# opengl
-homework for CG
