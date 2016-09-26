@@ -12,20 +12,20 @@ TARGET = qtwithopencv
 TEMPLATE = app
 
 
-SOURCES += main.cpp\
-        mainwindow.cpp \
-    imagewidget.cpp \
-    mlsdeformation.cpp \
-    mlsdaffine.cpp \
-    mlsdsimilarity.cpp \
-    mlsdrigid.cpp
+SOURCES += src/main.cpp\
+        src/mainwindow.cpp \
+    src/imagewidget.cpp \
+    src/mlsdeformation.cpp \
+    src/mlsdaffine.cpp \
+    src/mlsdsimilarity.cpp \
+    src/mlsdrigid.cpp
 
-HEADERS  += mainwindow.h \
-    imagewidget.h \
-    mlsdeformation.h \
-    mlsdaffine.h \
-    mlsdsimilarity.h \
-    mlsdrigid.h
+HEADERS  += include/mainwindow.h \
+    include/imagewidget.h \
+    include/mlsdeformation.h \
+    include/mlsdaffine.h \
+    include/mlsdsimilarity.h \
+    include/mlsdrigid.h
 
 INCLUDEPATH += .
 INCLUDEPATH += /usr/local/include
